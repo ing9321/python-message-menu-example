@@ -41,6 +41,10 @@ def message_options():
             {
                 "text": "Latte",
                 "value": "latte"
+            },
+            {
+                "text": "Americano",
+                "value": "americano"
             }
         ]
     }
